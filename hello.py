@@ -1,2 +1,2 @@
-def byebye():
-    return "Au revoir"
+def bonjour():
+    return "bonjour"
